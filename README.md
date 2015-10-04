@@ -1,2 +1,3 @@
 # Hex-clock_java
-My take on Jacopocolo's Hex Clock in Java
+My take on a Hex Clock in Java
+Inspired by http://www.jacopocolo.com/hexclock/
