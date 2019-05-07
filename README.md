@@ -1,4 +1,4 @@
-# Hex Clock Java
+# Hex Clock
 My take on a Hex Clock in Java
 
 ![](demo.gif)
